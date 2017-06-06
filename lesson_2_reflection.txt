@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+Indicates the repository has been created and the directory where will save it.
+
+	After this run the command git status to verify that you are on the reporitory what you wish, so you can see the status of the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It seems that staging area, repository and working directory are in the same level, each one with their commands
+	and at the same time you can see the status of directory, if you are not sure of make a change, you can reset the staging area before make the commit. 
